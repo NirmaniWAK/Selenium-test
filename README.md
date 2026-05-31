@@ -1,4 +1,4 @@
-**Selenium Contact Us Form Automation**
+**Selenium Contact Us Form Automation**<br>
 Description
 
 This project automates testing of the Contact Us form on the Safora website using Selenium WebDriver with Python. It opens the browser, fills in required fields, and verifies form behavior. The script pauses for manual Google reCAPTCHA verification before submitting the form.
