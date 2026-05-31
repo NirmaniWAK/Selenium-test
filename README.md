@@ -1,4 +1,4 @@
-**Selenium Contact Us Form Automation**<br> <br>
+**<h1>Selenium Contact Us Form Automation**</h1><br> <br>
 
 
 *Description*<br>
@@ -11,7 +11,7 @@ Google Chrome,
 ChromeDriver<br>
 
 *Features*<br>
-Open Chrome browser automatically<br>
+-Open Chrome browser automatically<br>
 -Navigate to Contact Us page<br>
 -Fill form fields (Name, Email, Phone, Message)<br>
 -Manual Google reCAPTCHA handling<br>
