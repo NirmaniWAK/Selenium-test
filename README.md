@@ -1,16 +1,16 @@
 **<h1>Selenium Contact Us Form Automation**</h1><br> <br>
 
 
-*Description*<br>
+**<h2>Description</h2>**<br>
 This project automates testing of the Contact Us form on the Safora website using Selenium WebDriver with Python. It opens the browser, fills in required fields, and verifies form behavior. The script pauses for manual Google reCAPTCHA verification before submitting the form.<br>
 
-*Technologies Used*<br>
+**Technologies Used**<br>
 Python,
 Selenium WebDriver,
 Google Chrome,
 ChromeDriver<br>
 
-*Features*<br>
+**Features**<br>
 -Open Chrome browser automatically<br>
 -Navigate to Contact Us page<br>
 -Fill form fields (Name, Email, Phone, Message)<br>
@@ -18,18 +18,18 @@ ChromeDriver<br>
 -Submit form<br>
 -Verify submission behavior<br>
 
-*Setup Instructions*<br>
+**Setup Instructions**<br>
 Install Python<br>
 Install Selenium using:
 pip install selenium<br>
 Download ChromeDriver and add it to system PATH<br>
 
-*How to Run*<br>
+**How to Run**<br>
 Run the script using:
 python test.py<br>
 
-*Note*<br>
+**Note**<br>
 Google reCAPTCHA must be completed manually before form submission.<br>
 
-*Author*<br>
+**Author**<br>
 W.A.K Nirmani
